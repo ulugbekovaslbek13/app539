@@ -1,0 +1,9 @@
+{
+  "name": "automated-pipeline-module",
+  "version": "1.0.0",
+  "description": "Core node scripts for asset management pipelines.",
+  "main": "main.js",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
